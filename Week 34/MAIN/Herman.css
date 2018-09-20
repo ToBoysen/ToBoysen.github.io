@@ -22,7 +22,8 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%
+  width: 40%;
+  margin-bottom: 10px;
 
 }
 h2{
@@ -53,5 +54,20 @@ p{
   border: 4px;
   border-color: firebrick;
   border-style: double;
+
+}
+body:hover{
+  background-color: Royalblue;
+  color: Lightskyblue;
+}
+
+p:hover{
+  background-color: indigo;
+  border: 20px;
+  border-color: gray;
+  border-style: dotted;
+}
+a:hover{
+  color: white;
 
 }
