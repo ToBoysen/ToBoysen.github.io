@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CARE OF ADRIAN</title>
+    <link rel="stylesheet" href="../cssr/PJ.css">
+
+
+    <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAjR3hFiQEhdenAWVwlpXcsbi_qutedosU",
+        authDomain: "nettbutikk-d802e.firebaseapp.com",
+        databaseURL: "https://nettbutikk-d802e.firebaseio.com",
+        projectId: "nettbutikk-d802e",
+        storageBucket: "nettbutikk-d802e.appspot.com",
+        messagingSenderId: "399939014143"
+      };
+      firebase.initializeApp(config);
+    </script>
+  </head>
+  <body>
+
+    <header>
+      <h1 class="FP">HR.TRISTAN</h1>
+      <nav>
+        <section class="dropdown">
+          <div class="dropbtn" onclick="visAlleKlær()">KLÆR</div>
+            <section class="dropdown-content">
+            <div class="content" onclick="visSkjorter()">SKJORTER</div>
+            <div class="content" onclick="visBukser()">BUKSER</div>
+            <div class="content" onclick="visShorts()">SHORTS</div>
+          </section>
+        </section>
+        <section class="dropdown">
+          <div class="dropbtn" onclick="visYttertøy()">YTTERTØY</div>
+            <section class="dropdown-content">
+              <div class="content" onclick="visJakker()">JAKKER</div>
+              <div class="content" onclick="visVester()">VESTER</div>
+            </section>
+        </section>
+        <section class="dropdown">
+          <div class="dropbtn" onclick="visSko()">SKO</div>
+        </section>
+        <section class="dropdown">
+          <a href="../html/merker.html">
+          <div class="dropbtn">VAREMERKER</div>
+          </a>
+        </section>
+
+
+      </nav>
+
+      <form>
+
+      </form>
+
+
+    </header>
+
+    <main class="FN">
+
+
+    </main>
+
+    <footer>
+      <article class="EN">
+        <h2>Care of Adrian</h2>
+        <ul>
+          <li> <a href="OmTristan">OM HR.TRISTAN</a> </li>
+          <li> <a href="#">TRYGGHET</a> </li>
+          <li> <a href="#">KJØPEVILKÅR</li>
+          <li> <a href="#">LEDIGE STILLINGER</li>
+        </ul>
+      </article>
+      <article class="TO">
+        <h2>Kunderådgivning</h2>
+        <ul>
+          <li> <a href="Kjøpsinformasjon.html">KJØPSINFORMASJON</a> </li>
+          <li> <a href="#">TA KONTAKT</a> </li>
+          <li> <a href="#">SPØR ADRIAN</a> </li>
+          <li> <a href="#">GAVEKORT</a> </li>
+        </ul>
+      </article>
+      <article class="FIRE">
+        <h2></h2>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </article>
+      <article class="SEKS">
+        <h2></h2>
+
+      </article>
+    </footer>
+
+    <script src="../script/Vareside.js"></script>
+  </body>
+</html>
