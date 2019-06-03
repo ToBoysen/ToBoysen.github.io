@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CARE OF ADRIAN</title>
+    <link rel="stylesheet" href="../cssr/PJ.css">
+
+
+    <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAjR3hFiQEhdenAWVwlpXcsbi_qutedosU",
+        authDomain: "nettbutikk-d802e.firebaseapp.com",
+        databaseURL: "https://nettbutikk-d802e.firebaseio.com",
+        projectId: "nettbutikk-d802e",
+        storageBucket: "nettbutikk-d802e.appspot.com",
+        messagingSenderId: "399939014143"
+      };
+      firebase.initializeApp(config);
+    </script>
+  </head>
+  <body>
+
+    <header>
+      <h1 class="FP">HR.TRISTAN</h1>
+      <nav>
+        <section class="dropdown">
+          <a href="Forside.html"><div class="dropbtn">TIL HJEMMESIDEN</div></a>
+          </div>
+        </section>
+        <section class="dropdown">
+          <div class="dropbtn" onclick="visAlleKlær()">KLÆR</div>
+            <section class="dropdown-content">
+            <div class="content" onclick="visSkjorter()">SKJORTER</div>
+            <div class="content" onclick="visBukser()">BUKSER</div>
+            <div class="content" onclick="visShorts()">SHORTS</div>
+          </section>
+        </section>
+        <section class="dropdown">
+          <div class="dropbtn" onclick="visYttertøy()">YTTERTØY</div>
+            <section class="dropdown-content">
+              <div class="content" onclick="visJakker()">JAKKER</div>
+              <div class="content" onclick="visVester()">VESTER</div>
+            </section>
+        </section>
+        <section class="dropdown">
+          <div class="dropbtn" onclick="visSko()">SKO</div>
+        </section>
+        <section class="dropdown">
+          <a href="../html/merker.html">
+          <div class="dropbtn">VAREMERKER</div>
+          </a>
+        </section>
+
+
+      </nav>
+
+      <form>
+
+      </form>
+
+
+    </header>
+
+
+    <main class="FN">
+
+        <article class="UA">
+          <h2>UTVALGTE ARTIKLER</h2>
+          <div class="AA">
+            <div class="EE">
+              <img src="../imgs/Klær/GBDS.jpg">
+              <a href="file:///Users/boii/Documents/GitHub/ToBoysen.github.io/TB/PROSJEKT/html/Vareinformasjon.html?id=S005"><p>INFO</p></a>
+            </div>
+            <div class="EE">
+              <img src="../imgs/Klær/GBDB.jpg">
+              <a href="file:///Users/boii/Documents/GitHub/ToBoysen.github.io/TB/PROSJEKT/html/Vareinformasjon.html?id=S008"><p>INFO</p></a>
+            </div>
+            <div class="EE">
+              <img src="../imgs/Klær/GBDP.jpg">
+              <a href="file:///Users/boii/Documents/GitHub/ToBoysen.github.io/TB/PROSJEKT/html/Vareinformasjon.html?id=S006"><p>INFO</p></a>
+            </div>
+            <div class="EE">
+              <img src="../imgs/Klær/GBDG.jpg">
+              <a href="file:///Users/boii/Documents/GitHub/ToBoysen.github.io/TB/PROSJEKT/html/Vareinformasjon.html?id=S007"><p>INFO</p></a>
+            </div>
+          </div>
+        </article>
+
+    </main>
+
+    <footer>
+      <article class="EN">
+          <h2> <a href="OmTristan.html">OM HR.TRISTAN</a></h2>
+      </article>
+      <article class="TO">
+          <h2> <a href="Kjøpsinformasjon.html">KJØPSINFORMASJON</a> </h2>
+      </article>
+
+
+    </footer>
+
+    <script src="../script/Vareside.js"></script>
+  </body>
+</html>

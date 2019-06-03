@@ -1,0 +1,285 @@
+{
+  "Skjorter":{
+
+    "S001":{
+      "Navn":"Polo RL",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Hvit",
+      "Img":"PRLH.jpg",
+      "Pris":"1200",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S002":{
+      "Navn":"Polo RL",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Rosa",
+      "Img":"PRLR.jpg",
+      "Pris":"1200",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S003":{
+      "Navn":"Polo RL",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Marineblå",
+      "Img":"PRLN.jpg",
+      "Pris":"1200",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S004":{
+      "Navn":"Polo RL",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Lyseblå",
+      "Img":"PRLL.jpg",
+      "Pris":"1200",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S005":{
+      "Navn":"GANT",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Blå",
+      "Img":"GBDS.jpg",
+      "Pris":"1000",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S006":{
+      "Navn":"GANT",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Rosa",
+      "Img":"GBDP.jpg",
+      "Pris":"1000",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S007":{
+      "Navn":"GANT",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Grå",
+      "Img":"GBDG.jpg",
+      "Pris":"800",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    },
+    "S008":{
+      "Navn":"GANT",
+      "Gruppe":"SKJORTER",
+      "Modell":"Oxford",
+      "Farge":"Lyseblå",
+      "Img":"GBDB.jpg",
+      "Pris":"800",
+      "Beskrivelse":"Det er få plagg som er like mangefasetterte som oxfordskjorten. Den passer like godt som en fin skjorte i formelle anledninger som i mer hverdagslige situasjoner, der den kan bidra med både komfort og stil. En kombinasjon som er få plagg forunt. Skjorten kan like gjerne matches med shorts og espadrillos som med dress og slips, og den kan sette et avslappet preg på et ellers formelt antrekk."
+    }
+
+  },
+  "Bukser":{
+
+    "B001":{
+      "Navn":"Polo RL",
+      "Modell":"Slimfit",
+      "Farge":"Hvit",
+      "Img":"RLPW.jpg",
+      "Pris":"1400",
+      "Beskrivelse":"Chinos med avsmalnende passform, fra Polo Ralph Lauren. Buksene er produsert i en kraftig bomullsvev med stretch og med myk, lett flosset overflate for god passform og komfort."
+    },
+    "B002":{
+      "Navn":"Polo RL",
+      "Modell":"Slimfit",
+      "Farge":"Marineblå",
+      "Img":"RLPB.jpg",
+      "Pris":"1400",
+      "Beskrivelse":"Chinos med avsmalnende passform, fra Polo Ralph Lauren. Buksene er produsert i en kraftig bomullsvev med stretch og med myk, lett flosset overflate for god passform og komfort."
+    },
+    "B003":{
+      "Navn":"GANT",
+      "Modell":"Tailored",
+      "Farge":"Rød",
+      "Img":"GTPR.jpg",
+      "Pris":"1000",
+      "Beskrivelse":"Chinos med avsmalnende passform, fra GANT. Buksene er produsert i en kraftig bomullsvev med stretch og med myk, lett flosset overflate for god passform og komfort."
+    },
+    "B004":{
+      "Navn":"GANT",
+      "Modell":"Tailored",
+      "Farge":"Lyseblå",
+      "Img":"GTPB.jpg",
+      "Pris":"1000",
+      "Beskrivelse":"Chinos med avsmalnende passform, fra GANT. Buksene er produsert i en kraftig bomullsvev med stretch og med myk, lett flosset overflate for god passform og komfort."
+    }
+  },
+    "Sko":{
+
+      "K001":{
+        "Navn":"Polo RL",
+        "Modell":"Chelsea boot",
+        "Farge":"Svart",
+        "Img":"PRLD.jpg",
+        "Pris":"1800",
+        "Beskrivelse":"Klassiske chelsea boots med overside i mokka"
+      },
+      "K002":{
+        "Navn":"Polo RL",
+        "Modell":"Chelsea boot",
+        "Farge":"Mørkebrun",
+        "Img":"RLDB.jpg",
+        "Pris":"1800",
+        "Beskrivelse":"Klassiske chelsea boots med overside i mokka"
+      },
+      "K003":{
+        "Navn":"La Martina",
+        "Modell":"Chelsea Boot",
+        "Farge":"Svart",
+        "Img":"MEBB.jpg",
+        "Pris":"1000",
+        "Beskrivelse":"Klassiske chelsea boots med overside i mokka"
+      },
+      "K004":{
+        "Navn":"La Martina",
+        "Modell":"Chelsea boot",
+        "Farge":"Mørkebrun",
+        "Img":"MEDB.jpg",
+        "Pris":"1000",
+        "Beskrivelse":"Klassiske chelsea boots med overside i mokka"
+      },
+      "K005":{
+        "Navn":"Sebago",
+        "Modell":"Seilersko",
+        "Farge":"Beige",
+        "Img":"BTLB.jpg",
+        "Pris":"1600",
+        "Beskrivelse":"Klassiske seilersko i semsket skinn, anvendelige til alle sommerens anledninger"
+      },
+      "K006":{
+        "Navn":"Sebago",
+        "Modell":"Seilersko",
+        "Farge":"Marineblå",
+        "Img":"BTDN.jpg",
+        "Pris":"1600",
+        "Beskrivelse":"Klassiske seilersko i semsket skinn, anvendelige til alle sommerens anledninger"
+      },
+      "K007":{
+        "Navn":"Polo RL",
+        "Modell":"Loafer",
+        "Farge":"Beige",
+        "Img":"RLLB.jpg",
+        "Pris":"1200",
+        "Beskrivelse":"Håndsydde bilsko fra Polo Ralph Lauren. Overside i mokka samt slitesåle i gummi for bedre grep. "
+      },
+      "K008":{
+        "Navn":"Polo RL",
+        "Modell":"Loafer",
+        "Farge":"Marineblå",
+        "Img":"RLLN.jpg",
+        "Pris":"1200",
+        "Beskrivelse":"Håndsydde bilsko fra Polo Ralph Lauren. Overside i mokka samt slitesåle i gummi for bedre grep. "
+      }
+  },
+    "Shorts":{
+
+      "H001":{
+        "Navn":"Lexington",
+        "Modell":"Prepster",
+        "Farge":"Marineblå",
+        "Img":"LJJB.jpg",
+        "Pris":"800",
+        "Beskrivelse":"Shorts i joggebuksemodell produsert i en kraftig bomullskvalitet, fra Lexington."
+      },
+      "H002":{
+        "Navn":"Lexington",
+        "Modell":"Prepster",
+        "Farge":"Grå",
+        "Img":"LJJG.jpg",
+        "Pris":"800",
+        "Beskrivelse":"Shorts i joggebuksemodell produsert i en kraftig bomullskvalitet, fra Lexington."
+      },
+      "H003":{
+        "Navn":"Polo RL",
+        "Modell":"Prepster",
+        "Farge":"Blå",
+        "Img":"SRLB.jpg",
+        "Pris":"1000",
+        "Beskrivelse":"Shorts med en avslappet passform fra Polo Ralph Lauren. Laget i bomullstwill med stretch. Passer utmerket ved varme sommerdager."
+      },
+      "H004":{
+        "Navn":"Polo RL",
+        "Modell":"Prepster",
+        "Farge":"Hvit",
+        "Img":"SRLW.jpg",
+        "Pris":"1000",
+        "Beskrivelse":"Shorts med en avslappet passform fra Polo Ralph Lauren. Laget i bomullstwill med stretch. Passer utmerket ved varme sommerdager."
+      }
+  },
+    "Jakker":{
+
+      "J001":{
+        "Navn":"Parajumpers",
+        "Modell":"Last minute",
+        "Farge":"Marineblå",
+        "Img":"PJLN.jpg",
+        "Pris":"4200",
+        "Beskrivelse":"Lettvektsdunjakke i en urban stil fra Parajumpers. En lett og smidig jakke med pustende egenskaper, passer til bruk vår og mildere vinterdager."
+      },
+      "J002":{
+        "Navn":"Parajumpers",
+        "Modell":"Last minute",
+        "Farge":"Svart",
+        "Img":"PJLB.jpg",
+        "Pris":"4200",
+        "Beskrivelse":"Lettvektsdunjakke i en urban stil fra Parajumpers. En lett og smidig jakke med pustende egenskaper, passer til bruk vår og mildere vinterdager."
+      },
+      "J003":{
+        "Navn":"Parajumpers",
+        "Modell":"UGO",
+        "Farge":"Marineblå",
+        "Img":"PJSU.jpg",
+        "Pris":"4000",
+        "Beskrivelse":"Lettvektsdunjakke i en urban stil fra Parajumpers. En lett og smidig jakke med pustende egenskaper, passer til bruk vår og mildere vinterdager."
+      },
+      "J004":{
+        "Navn":"Parajumpers",
+        "Modell":"UGO",
+        "Farge":"Grå",
+        "Img":"PJSG.jpg",
+        "Pris":"4000",
+        "Beskrivelse":"Lettvektsdunjakke i en urban stil fra Parajumpers. En lett og smidig jakke med pustende egenskaper, passer til bruk vår og mildere vinterdager."
+      }
+  },
+    "Vester":{
+
+      "V001":{
+        "Navn":"Colmar",
+        "Modell":"Vattert",
+        "Farge":"Svart",
+        "Img":"VCSB.jpg",
+        "Pris":"2000",
+        "Beskrivelse":"Tynn dunvest fra Colmar. Vesten er produsert i en myk syntetvev og fylt med dun og fjær. Passer til bruk høst og vår eller som et ekstra varmekomplement om vinteren. "
+      },
+      "V002":{
+        "Navn":"Colmar",
+        "Modell":"Vattert",
+        "Farge":"Marineblå",
+        "Img":"VCSN.jpg",
+        "Pris":"2000",
+        "Beskrivelse":"Tynn dunvest fra Colmar. Vesten er produsert i en myk syntetvev og fylt med dun og fjær. Passer til bruk høst og vår eller som et ekstra varmekomplement om vinteren. "
+      },
+      "V003":{
+        "Navn":"Parajumpers",
+        "Modell":"Vattert",
+        "Farge":"Svart",
+        "Img":"VPJB.jpg",
+        "Pris":"2200",
+        "Beskrivelse":"Lettvektsdunvest fra Parajumpers. Varemerket produserer plagg med innovative tekniske detaljer og komponenter, designet til å være slitesterke og funksjonelle."
+      },
+      "V004":{
+        "Navn":"Parajumpers",
+        "Modell":"Vattert",
+        "Farge":"Marineblå",
+        "Img":"VPJN.jpg",
+        "Pris":"2200",
+        "Beskrivelse":"Lettvektsdunvest fra Parajumpers. Varemerket produserer plagg med innovative tekniske detaljer og komponenter, designet til å være slitesterke og funksjonelle."
+      }
+    }
+}
