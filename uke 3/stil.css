@@ -1,0 +1,26 @@
+body{
+  margin: auto;
+  width: 70%;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+nav a{
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background-color: #aad;
+}
+nav a:hover{
+  opacity: 0.75;
+}
+nav a.aktiv{
+  background-color: #dda;
+}
+nav a:first-child{
+  flex-shrink: 1.2;
+  background-color: #dad;
+}
